@@ -1,0 +1,36 @@
+{
+  "plugins": [
+    {
+      "id": "removeDoctype",
+      "name": "Remove doctype"
+    },
+    {
+      "id": "removeComments",
+      "name": "Remove comments"
+    },
+    {
+      "id": "removeMetadata",
+      "name": "Remove <metadata>"
+    },
+    {
+      "id": "removeEditorsNSData",
+      "name": "Remove editor data"
+    },
+    {
+      "id": "cleanupIDs",
+      "name": "Clean IDs"
+    },
+    {
+      "id": "removeHiddenElems",
+      "name": "Remove hidden elements Eg.(display='none')"
+    },
+    {
+      "id": "removeForeignObject",
+      "name": "Remove <foreignObject>"
+    },
+    {
+      "id": "removeSwitch",
+      "name": "Remove <switch>"
+    }
+  ]
+}
